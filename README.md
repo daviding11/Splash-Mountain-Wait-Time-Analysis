@@ -3,10 +3,10 @@ This project was created as a final project for our Statistical Data Science Cla
 
 
 ## Poster session
-<img src="https://i.imgur.com/900umc2.jpg" width="70%" height="70%">
+<img src="https://i.imgur.com/900umc2.jpg" align="center" width="60%" height="60%">
 
 
-Missing from image :Lauren Wong
+Missing from image : Lauren Wong
 
 
 
